@@ -1,26 +1,52 @@
 ### Languages & Tools 🛠  
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
-![JavaScript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
-![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=white)&nbsp;
-![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=apache-maven&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+[<img src="https://img.shields.io/badge/-Java-071a54?style=flat&logo=Java" alt="Java logo" title="Java" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/-JavaEE-071a54?style=flat&logo=java" alt="JavaEE logo" title="JavaEE" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/-Websphere-071a54?style=flat&logo=data:image/png;base64,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" alt="Websphere logo" title="Websphere" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/-Spring-071a54?style=flat&logo=Spring" alt="Spring logo" title="Spring" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/-Quarkus-071a54?style=flat&logo=quarkus" alt="Quarkus logo" title="Quarkus" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/-AWS-071a54?style=flat&logo=amazonaws" alt="AWS logo" title="AWS" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/-Kotlin-071a54?style=flat&logo=kotlin" alt="Kotlin logo" title="Kotlin" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/-Angular-071a54?style=flat&logo=Angular" alt="Angular logo" title="Angular" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/-Javascript-071a54?style=flat&logo=Javascript" alt="Javascript logo" title="Javascript" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/-Typescript-071a54?style=flat&logo=Typescript" alt="Typescript logo" title="Typescript" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/-Redux-071a54?style=flat&logo=Redux" alt="Redux logo" title="Redux" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/-Maven-071a54?style=flat&logo=apachemaven" alt="Maven logo" title="Maven" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/-Docker-071a54?style=flat&logo=Docker" alt="Docker logo" title="Docker" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/-Git-071a54?style=flat&logo=Git" alt="Git logo" title="Git" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/-GitFlow-071a54?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAACAVBMVEX////09PT9/f3w8PH5+fn5+fr5+vr59/bx087739r08vP09PXu7u/39/f39/j4+Pn29vb19fb4+fn28vL0ppjwYEXxY0j0rZ/29PT09fb59fX0o5TwVDbwUDHwTzHxVzn0qpv08vL4+fr7+/vy8vLy8vP09fX79/byoJHwVDfwUDLwUTPxVjn2rJ3y7/D7+/z4+/zx6OfzhG/wTjDwVjnx8fL28PD2zsf49PPz4d7xfmj39PT0o5PxWj72p5f18/P14+DwTi/29fb79/fyoZLwVTf3qJnz4N31opLyk4HxZkv2qpz49/fy8/X7/f310MnwY0jxeWL0jHjxcVn16+n4+vr0mYfzopPy6+v19vfz39vzfmjxWDz408zz6un3wrj49fXx3tvwTzDwVjr0zcb47OrzcVn1p5jz39zyh3LycFjwXED0ppfwVzr47evya1LxVDb2qZv18vL28fD37Ov1zMTxa1LxVzr40crz6ObxXkL63tj09/j7///zrJ/739nzzMX67+3ybFPwWz/x0s3y9ff2u7D2z8j16ujxbFLznY318fH2+Pn36ufzgmzxgm3ymojzeWHwUjTwVTjzy8Xya1H0gmz66ufy7u7yaE734Nz09vf16ObxdFzzfWf38/P29/fyj33wZEr129b36ObzdFzyeWLzvbP3xr3zhXDwUzVjbNnkAAAAAWJLR0QAiAUdSAAAAAd0SU1FB+UJHQEGM812YQUAAAKASURBVDjLVZP3Q9NAFMcv6aWtPdpLUzrSEdq0oElaihZQQcVCUVHcW5wVN7jFiRUV98S99/wrvbukSc0vybv3vft+3uU9ADiOd0HBxdO32+Od5UMkhmYMYRPg/AGExSBGgQCSQs3hSDQm12McFCHgArZAjieSKaUlnVGDdUEQAh6hbA7j1ixqmz1H0w1DzxfaJRqjbCvGLuDCOFekIqlj7rySQR69s5CRszmIu4iIB1AU2XFq9/wFC3sUpsinewkHW+eAELT8Fy1e0re0p1yiLoRD6BchE7iYvzxQ0ZTBZX3LVwyttDgEnGMWDFKNVwifPrhqePWatev0OgeDpGWqoQTlN0rruyXk31CyOWiZnFk/zRvKxk2bUWBLmZESDoleFM/8Wd4wtK3bitt3jFi1FNpVeg9S3M4b+s5du/fs3TdSVeocPHBb/uazf/TAwUPDh48cPcZqSccQ8IwlnbwxPnr8xMlTp8+cPTeRohxRH/CGU07eOH/h4kT50uUr8uRVuk2J1EAtojQIxq9NXa/euNmBp2/RMBX2Al+0pdHi9p27inHv/oOHj8g+PTnmASiWzuv/C/T84ydPZ0heS4TcgJczhU5b8ez51AuytVqm+7VKXKL9oLYX6mfoL1+9HpqxvrXKgMz6IShl0iZH6s3bd+r7D+ZFJhNxmf5uSPpB7jU5Sh8/teHPX9jPIv6q0w8Wh/712+T09x+Wv9rQD1gwOfSfv37/man7O/0AxX7B5FD+aortT9tesOZCtDka/Om6ORddGOay9n3Y/sWcNRfWkEgWh+1vQkJnzFTCoaRsf2suoDOoWI5FI+HmkIRsgZ8DTc6ou3jkq3k9bjMW2Dr4Bz+MnNnHGt4LAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIxLTA5LTI5VDAxOjA2OjQ1KzAwOjAwykqJaQAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMS0wOS0yOVQwMTowNjo0NSswMDowMLsXMdUAAAAASUVORK5CYII=" alt="GitFlow logo" title="GitFlow" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/-GitLab-071a54?style=flat&logo=Gitlab" alt="GitLab logo" title="GitLab" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/-GitHub-071a54?style=flat&logo=GitHub" alt="GitHub logo" title="GitHub" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/-SQL Server-071a54?style=flat&logo=microsoftsqlserver" alt="SQL Server logo" title="SQL Server" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/-MySQL-071a54?style=flat&logo=MySQL&logoColor=white" alt="MySQL logo" title="MySQL" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/-PostgreSQL-071a54?style=flat&logo=PostgreSQL&logoColor=white" alt="PostgreSQL logo" title="PostgreSQL" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/-DB2-071a54?style=flat&logo=data:image/png;base64,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" alt="DB2 logo" title="DB2" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/-Dart-071a54?style=flat&logo=dart" alt="Dart logo" title="Dart" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/-Flutter-071a54?style=flat&logo=Flutter" alt="Flutter logo" title="Flutter" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/-Android-071a54?style=flat&logo=android" alt="Android logo" title="Android" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/-Ionic-071a54?style=flat&logo=ionic" alt="Ionic logo" title="Ionic" height="25" />][tech_tools_anchor]
+
+### Certifications 🏆  
+
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/120x120/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png)](https://www.credly.com/badges/e7c6ef29-e87d-48d3-a4aa-b8e4984da573)
+&nbsp;&nbsp;
+[![Oracle Certified Professional](https://images.credly.com/size/120x120/images/8271b3d7-090a-42ec-9b84-d4f845698abd/Oracle-Certification-badge_OC-Professional600X600.png)](https://www.credly.com/badges/d00874b6-9dd9-4263-916a-853064a93898)
+&nbsp;&nbsp;
+[![Exam 480: Programming in HTML5 with JavaScript and CSS3](https://images.credly.com/size/120x120/images/84f513e4-256d-4aa0-a29d-973bcb39d87a/Programming_in_HTML5_with_JavaScript_and_Css3-01.png)](https://www.credly.com/badges/eb870a27-31ca-4422-9135-4c9b5d49fb52)
+&nbsp;&nbsp;
+[![DevOps Essentials Professional Certificate - DEPC®](https://images.credly.com/size/120x120/images/165466d3-37d8-4dcb-821d-cb072cfd2a69/CertiProf-Badge-DEPC.png)](https://www.credly.com/badges/b13e2b5c-aaa2-4e30-9758-5f8204818c47)
+&nbsp;&nbsp;
+[![Lifelong Learning](https://images.credly.com/size/120x120/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png)](https://www.credly.com/badges/58b716a7-1f02-48df-a721-b095224088a6)
+&nbsp;&nbsp;
+[![Scrum Foundation Professional Certificate - SFPC™](https://images.credly.com/size/120x120/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png)](https://www.credly.com/badges/b5fb49f0-1183-47cf-94cb-8db22885274f)
 
 
+### GitHub Stats ⚙️
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=nelsonjunior&count_private=true&show_icons=true&theme=prussian)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonjunior&layout=compact&count_private=true&theme=prussian)&nbsp;
+
+### Let's connect? 🤝 
+<a href="https://www.linkedin.com/in/nelson-rodrigues-da-silva-junior/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" height="25"/></a>
 
 
-### GitHub Stats ⚙️ ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=tiago-ferreira&repo=nelsonjunior&countColorcountColor)
-
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=nelsonjunior&count_private=true&show_icons=true&theme=prussian)&nbsp;
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=nelsonjunior&hide_border=true)&nbsp;
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonjunior&layout=compact&count_private=true)&nbsp;
-
-### Let's connect? 🤝 <a href="https://www.linkedin.com/in/nelson-rodrigues-da-silva-junior/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+[tech_tools_anchor]: #nelsonjunior--
