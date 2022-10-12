@@ -28,7 +28,7 @@
 
 ### Certifications 🏆  
 
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/120x120/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png)](https://www.credly.com/badges/e7c6ef29-e87d-48d3-a4aa-b8e4984da573)
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/120x120/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/e7c6ef29-e87d-48d3-a4aa-b8e4984da573)
 &nbsp;&nbsp;
 [![Oracle Certified Professional](https://images.credly.com/size/120x120/images/8271b3d7-090a-42ec-9b84-d4f845698abd/Oracle-Certification-badge_OC-Professional600X600.png)](https://www.credly.com/badges/d00874b6-9dd9-4263-916a-853064a93898)
 &nbsp;&nbsp;
